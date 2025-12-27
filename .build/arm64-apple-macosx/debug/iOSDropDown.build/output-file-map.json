@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/private/tmp/spm-repos/iOSDropDown-fork/.build/arm64-apple-macosx/debug/iOSDropDown.build/master.swiftdeps"
+  },
+  "/private/tmp/spm-repos/iOSDropDown-fork/iOSDropDown/Classes/iOSDropDown.swift": {
+    "dependencies": "/private/tmp/spm-repos/iOSDropDown-fork/.build/arm64-apple-macosx/debug/iOSDropDown.build/iOSDropDown.d",
+    "object": "/private/tmp/spm-repos/iOSDropDown-fork/.build/arm64-apple-macosx/debug/iOSDropDown.build/iOSDropDown.swift.o",
+    "swiftmodule": "/private/tmp/spm-repos/iOSDropDown-fork/.build/arm64-apple-macosx/debug/iOSDropDown.build/iOSDropDown~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/spm-repos/iOSDropDown-fork/.build/arm64-apple-macosx/debug/iOSDropDown.build/iOSDropDown.swiftdeps",
+    "diagnostics": "/private/tmp/spm-repos/iOSDropDown-fork/.build/arm64-apple-macosx/debug/iOSDropDown.build/iOSDropDown.dia"
+  }
+}

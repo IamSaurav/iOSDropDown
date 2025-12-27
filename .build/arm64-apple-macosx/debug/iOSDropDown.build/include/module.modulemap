@@ -1,0 +1,3 @@
+module iOSDropDown {
+    header "/private/tmp/spm-repos/iOSDropDown-fork/.build/arm64-apple-macosx/debug/iOSDropDown.build/include/iOSDropDown-Swift.h"
+}
